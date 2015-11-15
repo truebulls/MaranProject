@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/MaranProject.iml" filepath="$PROJECT_DIR$/.idea/MaranProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Project1A/Project1A.iml" filepath="$PROJECT_DIR$/Project1A/Project1A.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Project1B/Project1B.iml" filepath="$PROJECT_DIR$/Project1B/Project1B.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Project2A/Project2A.iml" filepath="$PROJECT_DIR$/Project2A/Project2A.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Project2B/Project2B.iml" filepath="$PROJECT_DIR$/Project2B/Project2B.iml" />
+    </modules>
+  </component>
+</project>
